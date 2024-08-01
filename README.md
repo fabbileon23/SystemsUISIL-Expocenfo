@@ -1,8 +1,8 @@
 # Systems UISIL - Expocenfo 2024
 
 ## Integrantes
-Justin Sánchez
-Steven Segura
+Justin Sánchez  
+Steven Segura  
 Fabián León
 
 ## Descripción del proyecto
