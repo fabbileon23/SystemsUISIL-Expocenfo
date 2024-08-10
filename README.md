@@ -1,7 +1,7 @@
 # Systems UISIL - Expocenfo 2024
 
 ## Bastón Inteligente y Casa Domótica para Personas No Videntes
-### Descricion del Proyecto,
+### Descricion del Proyecto
 Este proyecto está enfocado en mejorar la calidad de vida de las personas no videntes, proporcionando herramientas que les permitan moverse y vivir de manera más independiente y segura. El proyecto incluye dos componentes principales:
 
 Bastón Inteligente: Un dispositivo diseñado para ayudar a las personas a navegar su entorno de manera segura, utilizando sensores que detectan obstáculos, y alertan al usuario mediante vibraciones y sonidos.
@@ -9,8 +9,8 @@ Bastón Inteligente: Un dispositivo diseñado para ayudar a las personas a naveg
 Casa Domótica: Un sistema de hogar inteligente que incluye tecnologías como RFID para acceso seguro, sensores que monitorean la calidad del aire y las condiciones ambientales, y un sistema de iluminación automática. Todo esto puede ser controlado a través de una aplicación móvil, adaptada especialmente para personas no videntes.
 
 
-### Caracteristicas deL Proyecto.
-#### Bastón Inteligente
+## Caracteristicas deL Proyecto.
+### Bastón Inteligente
 Sensores de Proximidad:
 Utiliza sensores ultrasónicos para medir la distancia entre el bastón y los objetos cercanos.
 Cuando un objeto es detectado dentro de un rango específico, el bastón alerta al usuario.
