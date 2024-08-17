@@ -1,4 +1,11 @@
+<!-- PROJECT LOGO -->
 <h1 align="center">Systems UISIL - Expocenfo 2024</h1> 
+<br />
+<div align="center">
+  <a href="https://github.com/fabbileon23/SystemsUISIL-Expocenfo">
+    <img src="OlimpiadasPZ/Images/logo.jpg" alt="Logo" width="80" height="80">
+  </a>
+</div>
 
 ## Bastón Inteligente y Casa Domótica para Personas No Videntes
 ### Descricion del Proyecto
