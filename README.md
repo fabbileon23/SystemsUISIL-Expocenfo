@@ -1,4 +1,4 @@
-# Systems UISIL - Expocenfo 2024
+<h1 align="center">Systems UISIL - Expocenfo 2024</h1> 
 
 ## Bastón Inteligente y Casa Domótica para Personas No Videntes
 ### Descricion del Proyecto
