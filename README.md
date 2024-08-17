@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/fabbileon23/SystemsUISIL-Expocenfo">
-    <img src="[Images/Logo.jpg](https://github.com/user-attachments/assets/d3c83125-7f9b-4213-8ef8-ba02866598dc)" alt="Logo" width="80" height="80">
+    <img src="https://github.com/fabbileon23/SystemsUISIL-Expocenfo/commit/a54a56a37d8747e7ef32ce298768473eabba50da#r145480715">
   </a>
 </div>
 
