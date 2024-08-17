@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/fabbileon23/SystemsUISIL-Expocenfo">
-    <img src="/OlimpiadasPZ/Images/Logo.jpg" alt="Logo" width="80" height="80">
+    <img src="/Images/Logo.jpg" alt="Logo" width="80" height="80">
   </a>
 </div>
 
