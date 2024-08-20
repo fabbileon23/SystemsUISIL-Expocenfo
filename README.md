@@ -43,7 +43,7 @@ Este proyecto está enfocado en mejorar la calidad de vida de las personas no vi
 * Bastón Inteligente: Un dispositivo diseñado para ayudar a las personas a navegar su entorno de manera segura, utilizando sensores que detectan obstáculos, y alertan al usuario mediante vibraciones y sonidos.
 <br />
 <div align="center">
-    <img src="Images/Baston1.jpeg" alt="Logo" width="600" height="900">
+    <img src="Images/Baston1.jpeg" alt="Logo" width="600" height="750">
 </div>
 <br />
 
