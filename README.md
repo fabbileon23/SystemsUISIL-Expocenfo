@@ -1,3 +1,7 @@
+<!-- Improved compatibility of back to top link: See: https://github.com/fabbileon23/SystemsUISIL-Expocenfo -->
+<a id="readme-top"></a>
+<!--
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
