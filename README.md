@@ -15,7 +15,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#Descripcion-del-Proyecto">Descripcion del Proyecto</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -36,12 +36,18 @@
   </ol>
 </details>
 
-### Descricion del Proyecto
+<!-- ABOUT THE PROJECT -->
+## Descripcion del Proyecto
 Este proyecto está enfocado en mejorar la calidad de vida de las personas no videntes, proporcionando herramientas que les permitan moverse y vivir de manera más independiente y segura. El proyecto incluye dos componentes principales:
 
-Bastón Inteligente: Un dispositivo diseñado para ayudar a las personas a navegar su entorno de manera segura, utilizando sensores que detectan obstáculos, y alertan al usuario mediante vibraciones y sonidos.
+* Bastón Inteligente: Un dispositivo diseñado para ayudar a las personas a navegar su entorno de manera segura, utilizando sensores que detectan obstáculos, y alertan al usuario mediante vibraciones y sonidos.
+<br />
+<div align="center">
+    <img src="Images/Baston.jpeg" alt="Logo" width="600" height="300">
+</div>
+<br />
 
-Casa Domótica: Un sistema de hogar inteligente que incluye tecnologías como RFID para acceso seguro, sensores que monitorean la calidad del aire y las condiciones ambientales, y un sistema de iluminación automática. Todo esto puede ser controlado a través de una aplicación móvil, adaptada especialmente para personas no videntes.
+*Casa Domótica: Un sistema de hogar inteligente que incluye tecnologías como RFID para acceso seguro, sensores que monitorean la calidad del aire y las condiciones de temperatura, y un sistema de iluminación automática.
 
 
 ## Caracteristicas deL Proyecto.
@@ -79,6 +85,4 @@ Esto asegura que las luces siempre estén encendidas cuando sea necesario y ahor
 Una app diseñada para ser intuitiva y accesible, que permite al usuario controlar todos los sistemas del hogar.
 Desde la app, se pueden ajustar las luces, monitorear los sensores, y recibir alertas importantes.
 
-
-![Baston](https://github.com/user-attachments/assets/8032e9e8-ccab-4138-951f-e7f8178e97e9) ![Sensores](https://github.com/user-attachments/assets/d9186088-a120-46ae-89d6-0c751467c445)
 
