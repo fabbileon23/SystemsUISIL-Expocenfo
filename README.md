@@ -7,7 +7,7 @@
   </a>
 </div>
 
-## Bastón Inteligente y Casa Domótica para Personas No Videntes
+<h1 aling="center">Bastón Inteligente para Personas No Videntes y Casa Domotica </h1>
 ### Descricion del Proyecto
 Este proyecto está enfocado en mejorar la calidad de vida de las personas no videntes, proporcionando herramientas que les permitan moverse y vivir de manera más independiente y segura. El proyecto incluye dos componentes principales:
 
