@@ -21,7 +21,7 @@
     <li>
       <a href="#Descripcion-del-Proyecto">Descripcion del Proyecto</a>
       <ul>
-        <li><a href="#Caracteristicas-del-Proyecto.">Caracteristicas</a></li>
+        <li><a href="#Caracteristicas-del-Proyecto">Caracteristicas del Proyecto</a></li>
       </ul>
     </li>
     <li>
