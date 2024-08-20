@@ -50,7 +50,7 @@ Este proyecto está enfocado en mejorar la calidad de vida de las personas no vi
 * Casa Domótica: Un sistema de hogar inteligente que incluye tecnologías como RFID para acceso seguro, sensores que monitorean la calidad del aire y las condiciones de temperatura, y un sistema de iluminación automática.
 <br />
 <div align="center">
-    <img src="Images/Casa Domotica.jpeg" alt="Logo" width="600" height="790">
+    <img src="Images/Casa Domotica.jpeg" alt="Logo" width="700" height="590">
 </div>
 <br />
 
