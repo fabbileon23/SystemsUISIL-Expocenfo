@@ -1,15 +1,16 @@
 <!-- PROJECT LOGO -->
-<h1 align="center">Systems UISIL - Expocenfo 2024</h1> 
 <br />
 <div align="center">
   <a href="https://github.com/fabbileon23/SystemsUISIL-Expocenfo">
     <img src="Images/Logo.jpg" alt="Logo" width="600" height="300">
   </a>
 </div>
+<h1 align="center"> Expocenfo 2024</h1> 
 <br />
 
-<h1 aling="center">Bastón Inteligente para Personas No Videntes y Casa Domotica </h1>
+<h1 align="center">Bastón Inteligente para Personas No Videntes y Casa Domotica</h1>
 <br />
+
 ### Descricion del Proyecto
 Este proyecto está enfocado en mejorar la calidad de vida de las personas no videntes, proporcionando herramientas que les permitan moverse y vivir de manera más independiente y segura. El proyecto incluye dos componentes principales:
 
