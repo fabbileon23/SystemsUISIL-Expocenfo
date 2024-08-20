@@ -21,7 +21,7 @@
     <li>
       <a href="#Descripcion-del-Proyecto">Descripcion del Proyecto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Caracteristicas-del-Proyecto.">Caracteristicas</a></li>
       </ul>
     </li>
     <li>
@@ -60,7 +60,7 @@ Este proyecto está enfocado en mejorar la calidad de vida de las personas no vi
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Caracteristicas deL Proyecto.
+## Caracteristicas del Proyecto.
 ### Bastón Inteligente
 * Sensores de Proximidad:
 Utiliza sensores ultrasónicos para medir la distancia entre el bastón y los objetos cercanos.
@@ -79,10 +79,6 @@ Los sonidos pueden personalizarse para diferenciar entre tipos de obstáculos o 
 Utilizado para acceder de manera segura al hogar sin necesidad de llaves.
 Cada usuario tiene una tarjeta RFID personalizada que, al ser escaneada, desbloquea la puerta.
 
-* Sensores de Gas:
-Monitorea constantemente la presencia de gases peligrosos como el monóxido de carbono.
-En caso de detección, el sistema emite una alerta inmediata al usuario y puede activar una ventilación automática.
-
 * Sensores de Humedad y Temperatura:
 Monitorean las condiciones ambientales dentro del hogar.
 Permiten ajustar automáticamente el sistema de calefacción o aire acondicionado para mantener un ambiente confortable.
@@ -91,8 +87,5 @@ Permiten ajustar automáticamente el sistema de calefacción o aire acondicionad
 Basada en la detección de presencia y las condiciones de luz ambiental, las luces se encienden y apagan automáticamente.
 Esto asegura que las luces siempre estén encendidas cuando sea necesario y ahorra energía cuando no lo es.
 
-* Aplicación de Control:
-Una app diseñada para ser intuitiva y accesible, que permite al usuario controlar todos los sistemas del hogar.
-Desde la app, se pueden ajustar las luces, monitorear los sensores, y recibir alertas importantes.
 
 
