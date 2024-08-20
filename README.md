@@ -43,11 +43,11 @@ Este proyecto está enfocado en mejorar la calidad de vida de las personas no vi
 * Bastón Inteligente: Un dispositivo diseñado para ayudar a las personas a navegar su entorno de manera segura, utilizando sensores que detectan obstáculos, y alertan al usuario mediante vibraciones y sonidos.
 <br />
 <div align="center">
-    <img src="Images/Baston.jpeg" alt="Logo" width="600" height="300">
+    <img src="Images/Baston1.jpeg" alt="Logo" width="600" height="300">
 </div>
 <br />
 
-*Casa Domótica: Un sistema de hogar inteligente que incluye tecnologías como RFID para acceso seguro, sensores que monitorean la calidad del aire y las condiciones de temperatura, y un sistema de iluminación automática.
+* Casa Domótica: Un sistema de hogar inteligente que incluye tecnologías como RFID para acceso seguro, sensores que monitorean la calidad del aire y las condiciones de temperatura, y un sistema de iluminación automática.
 
 
 ## Caracteristicas deL Proyecto.
