@@ -98,7 +98,6 @@ Esto asegura que las luces siempre estén encendidas cuando sea necesario y ahor
 * **Mini Proto**
 * **Vibration Brick**
 * **9V Battery Holder con Cobertor de encedido y apagado**
-<br />
 <div align="center">
     <img src="Images/Componentes BT.png" alt="Logo" width="600" height="300">
 </div>
@@ -120,10 +119,9 @@ Esto asegura que las luces siempre estén encendidas cuando sea necesario y ahor
 * **Fuente de 120v-5v**
 * **Power Bank**
 
-<br />
 <div align="center">
     <img src="Images/Componentes CD.png" alt="Logo" width="600" height="300">
 </div>
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
