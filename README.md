@@ -28,7 +28,8 @@
       <a href="#Componentes">Componentes</a>
       <ul>
         <li><a href="#Baston-Inteligente">Baston</a></li>
-        <li><a href="#Casa Domotica">Casa Domotica</a></li>
+        <li><a href="#Casa-Domotica">Casa Domotica</a></li>
+        <li><a href="#Librerias-y-Lenguaje-de-Programacion">Librerias y Lenguaje de Programacion</a></li>
       </ul>
     </li>
   </ol>
@@ -116,15 +117,19 @@ Esto asegura que las luces siempre estén encendidas cuando sea necesario y ahor
 <div align="center">
     <img src="Images/Componentes CD.png" alt="Logo" width="600" height="300">
 </div>
+<br />
+
+### Librerias y Lenguaje de Programacion 
+1. Librerías:
+* LiquidCrystal: Utilizada para controlar la pantalla LCD i2c 16x2, permitiendo la visualización en tiempo real de información relevante.
+* MFRC522: Implementada para gestionar la comunicación con el módulo RFID, facilitando el control de acceso y la autenticación.
+* Servo.h: Utilizada para controlar el microservo de 5V, permitiendo un movimiento preciso y automático de mecanismos como puertas o ventanas.
+2. Programacion:
+* Se desarrollaron scripts en C/C++ en el entorno de Arduino IDE, optimizando el código para manejar la lógica del bastón, ademas, garantizando que los diferentes módulos del sistema domótico trabajen de manera coordinada
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
