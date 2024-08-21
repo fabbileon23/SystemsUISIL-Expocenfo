@@ -103,5 +103,27 @@ Esto asegura que las luces siempre estén encendidas cuando sea necesario y ahor
     <img src="Images/Componentes BT.png" alt="Logo" width="600" height="300">
 </div>
 
+### Casa Domotica
+* **Casa Impresa en 3D**
+* **2 Arduinos UNO**
+* **ProtoBoard**
+* **2 LEDs**
+* **Cables Hembra-Macho**
+* **3 Resistencia 220 ohms**
+* **LDR**
+* **Fuente para la Protoboard 5v3.3**
+* **RFID**
+* **Sensor Temperatura LM35**
+* **LCD i2c 16x2**
+* **ServoMotor 5V**
+* **3 Broches para Bateria 9V**
+* **Fuente de 120v-5v**
+* **Power Bank**
+
+<br />
+<div align="center">
+    <img src="Images/Componentes CD.png" alt="Logo" width="600" height="300">
+</div>
+
 
 
