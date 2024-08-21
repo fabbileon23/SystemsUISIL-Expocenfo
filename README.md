@@ -120,13 +120,25 @@ Esto asegura que las luces siempre estén encendidas cuando sea necesario y ahor
 <br />
 
 ### Librerias y Lenguaje de Programacion 
-1. Librerías:
+**1. Librerías:**
 * LiquidCrystal: Utilizada para controlar la pantalla LCD i2c 16x2, permitiendo la visualización en tiempo real de información relevante.
 * MFRC522: Implementada para gestionar la comunicación con el módulo RFID, facilitando el control de acceso y la autenticación.
 * Servo.h: Utilizada para controlar el microservo de 5V, permitiendo un movimiento preciso y automático de mecanismos como puertas o ventanas.
-2. Programacion:
+**2. Programacion:**
 * Se desarrollaron scripts en C/C++ en el entorno de Arduino IDE, optimizando el código para manejar la lógica del bastón, ademas, garantizando que los diferentes módulos del sistema domótico trabajen de manera coordinada
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br />
+
+## Ejemplos de Uso 
+### Baston inteligente 
+* En el video se muestra como el bastón inteligente utiliza un sensor ultrasónico con un alcance de 50 cm para detectar obstáculos. Al identificar un objeto dentro de este rango, activa un motor de vibración y emite un sonido, alertando al usuario sobre la proximidad del obstáculo para prevenir colisiones.
+
+<div align="center">
+   <video width="600" controls>
+  <source src="Images/DemoBT.mp4" type="video/mp4">
+</video>
+</div>
+  
 
 
 
