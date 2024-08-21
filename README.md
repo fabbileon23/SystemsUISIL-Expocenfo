@@ -133,11 +133,9 @@ Esto asegura que las luces siempre estén encendidas cuando sea necesario y ahor
 ### Baston inteligente 
 * En el video se muestra como el bastón inteligente utiliza un sensor ultrasónico con un alcance de 50 cm para detectar obstáculos. Al identificar un objeto dentro de este rango, activa un motor de vibración y emite un sonido, alertando al usuario sobre la proximidad del obstáculo para prevenir colisiones.
 
-<div align="center">
-   <video width="600" controls>
+<video width="600" controls>
   <source src="Images/DemoBT.mp4" type="video/mp4">
 </video>
-</div>
   
 
 
