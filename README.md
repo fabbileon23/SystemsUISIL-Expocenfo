@@ -127,6 +127,7 @@ Esto asegura que las luces siempre estén encendidas cuando sea necesario y ahor
 * LiquidCrystal: Utilizada para controlar la pantalla LCD i2c 16x2, permitiendo la visualización en tiempo real de información relevante.
 * MFRC522: Implementada para gestionar la comunicación con el módulo RFID, facilitando el control de acceso y la autenticación.
 * Servo.h: Utilizada para controlar el microservo de 5V, permitiendo un movimiento preciso y automático de mecanismos como puertas o ventanas.
+  
 **2. Programacion:**
 * Se desarrollaron scripts en C/C++ en el entorno de Arduino IDE, optimizando el código para manejar la lógica del bastón, ademas, garantizando que los diferentes módulos del sistema domótico trabajen de manera coordinada
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
