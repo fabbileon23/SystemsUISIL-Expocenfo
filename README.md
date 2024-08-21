@@ -9,7 +9,7 @@
     <img src="Images/Logo.jpg" alt="Logo" width="600" height="300">
   </a>
 </div>
-<h1 align="center"> Expocenfo 2024</h1> 
+<h1 align="center"> Expocenfo 2025</h1> 
 
 <h1 align="center">Bastón Inteligente para Personas No Videntes y Casa Domotica</h1>
 <br />
