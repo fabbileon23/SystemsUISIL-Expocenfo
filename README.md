@@ -33,7 +33,7 @@
       </ul>
     </li>
     <li>
-      <a href="#Colaboradores-y-Reconocimientos">Colaboradores y Reconocimientos</a>
+      <a href="#Reconocimientos-y-Colaboradores">Reconocimientos y Colaboradores</a>
     </li>
   </ol>
 </details>
@@ -141,7 +141,7 @@ Este Proyecto fue elaborado y diseñado por los estudiantes de la carrera de Ing
 * **Steven Segura Gamboa**
 
 <div align="center">
-    <img src="Images/LOGO UISIL.png" alt="Logo" width="490" height="190">
+    <img src="Images/LOGO UISIL.png" alt="Logo" width="440" height="140">
 </div>
 <br />
   
