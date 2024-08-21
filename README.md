@@ -25,10 +25,10 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Componentes">Componentes</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Baston-Inteligente">Baston</a></li>
+        <li><a href="#Casa Domotica">Casa Domotica</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -86,6 +86,22 @@ Permiten ajustar automáticamente el sistema de calefacción o aire acondicionad
 * Iluminación Automática:
 Basada en la detección de presencia y las condiciones de luz ambiental, las luces se encienden y apagan automáticamente.
 Esto asegura que las luces siempre estén encendidas cuando sea necesario y ahorra energía cuando no lo es.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Componentes
+### Baston Inteligente
+* **Tubo PVC 1/2**
+* **Sensor Ultrasonico**
+* **Cable UTP**
+* **Arduino Nano**
+* **Mini Proto**
+* **Vibration Brick**
+* **9V Battery Holder con Cobertor de encedido y apagado**
+<br />
+<div align="center">
+    <img src="Images/Componentes BT.png" alt="Logo" width="600" height="300">
+</div>
 
 
 
