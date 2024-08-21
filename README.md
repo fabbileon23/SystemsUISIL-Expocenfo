@@ -32,6 +32,9 @@
         <li><a href="#Librerias-y-Lenguaje-de-Programacion">Librerias y Lenguaje de Programacion</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#Colaboradores-y-Reconocimientos">Colaboradores y Reconocimientos</a>
+    </li>
   </ol>
 </details>
 
@@ -129,13 +132,18 @@ Esto asegura que las luces siempre estén encendidas cuando sea necesario y ahor
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br />
 
-## Ejemplos de Uso 
-### Baston inteligente 
-* En el video se muestra como el bastón inteligente utiliza un sensor ultrasónico con un alcance de 50 cm para detectar obstáculos. Al identificar un objeto dentro de este rango, activa un motor de vibración y emite un sonido, alertando al usuario sobre la proximidad del obstáculo para prevenir colisiones.
+## Reconocimientos y Colaboradores
+Este Proyecto fue elaborado y diseñado por los estudiantes de la carrera de Ingenieria de Sistemas de la Universidad Internacional San Isidro Labrador de la sede de Perez Zeledón. Queremos expresar nuestro más sincero agradecimiento por la increíble oportunidad de ser parte de las Olimpiadas Expocenfo 2024. Gracias al valioso apoyo y recursos proporcionados por la Universidad Cenfotec ¡Es un honor ser parte de esta gran comunidad!.
 
-<video width="600" controls>
-  <source src="Images/DemoBT.mp4" type="video/mp4">
-</video>
+### Colaboradores del Proyecto 
+* **Fabian Leon Mendoza**
+* **Justin Sanchez Sanchez**
+* **Steven Segura Gamboa**
+
+<div align="center">
+    <img src="Images/LOGO UISIL.png" alt="Logo" width="600" height="300">
+</div>
+<br />
   
 
 
